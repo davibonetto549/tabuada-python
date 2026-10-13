@@ -1,0 +1,21 @@
+This ready-to-run program prints the multiplication table of one integer.
+It uses Python 3 without external packages. You do not need to modify its source.
+
+Extract the ZIP, then use File > Open Folder in Visual Studio Code to open the
+multiplication-table-python folder. It contains main.py, instructions.txt and LICENSE.
+
+Install Python 3 and the Microsoft Python extension for VS Code if they are not
+ready. Python downloads: https://www.python.org/downloads/
+Extension: https://marketplace.visualstudio.com/items?itemName=ms-python.python
+Open main.py and save it. Choose Run Python File in Terminal from the editor's
+Run menu. If asked to select an interpreter, choose your installed Python 3.
+
+Click the terminal opened for the program. Type one integer from 0 to 1000 and
+press Enter. The program does not display a prompt before waiting for input.
+It prints ten lines, with multipliers from 1 to 10, then stops.
+Each line has the form X * i = result. X is your input and i is the multiplier.
+The command that launches the program and the number you type are not output
+printed by the program.
+
+To try another number, run the program again. Keep the source and the complete
+LICENSE. This package does not include a README or a demonstration image.
